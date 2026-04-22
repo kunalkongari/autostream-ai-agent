@@ -1,0 +1,10 @@
+# Core framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langgraph>=0.2.0
+
+# Groq LLM
+langchain-groq>=0.1.0
+
+# Type support
+typing-extensions>=4.9.0

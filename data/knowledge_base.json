@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "description": "AutoStream is a SaaS product that provides automated video editing tools for content creators. Powered by AI, it helps YouTubers, Instagrammers, and other digital creators produce polished, professional videos in minutes."
+  },
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "price_numeric": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Automated editing",
+        "Basic templates",
+        "Email support"
+      ],
+      "keywords": ["basic", "cheap", "starter", "affordable", "budget", "beginner", "29"]
+    },
+    {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "price_numeric": 79,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution",
+        "AI-powered captions",
+        "Advanced templates",
+        "Priority 24/7 support",
+        "Team collaboration",
+        "Analytics dashboard"
+      ],
+      "keywords": ["pro", "professional", "unlimited", "4k", "captions", "advanced", "79"]
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "detail": "No refunds are provided after 7 days of purchase. Refunds can be requested within the first 7 days.",
+      "keywords": ["refund", "money back", "cancel", "return"]
+    },
+    {
+      "topic": "Support Policy",
+      "detail": "24/7 support is available exclusively for Pro plan subscribers. Basic plan subscribers have access to email support during business hours.",
+      "keywords": ["support", "help", "contact", "24/7", "customer service"]
+    },
+    {
+      "topic": "Cancellation Policy",
+      "detail": "You can cancel your subscription at any time. Your access continues until the end of the billing cycle.",
+      "keywords": ["cancel", "subscription", "stop", "end"]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports exports optimized for YouTube, Instagram, TikTok, Twitter/X, and LinkedIn.",
+      "keywords": ["platform", "youtube", "instagram", "tiktok", "twitter", "export"]
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade from Basic to Pro at any time. You will be charged the prorated difference for the remaining billing period.",
+      "keywords": ["upgrade", "switch", "change plan", "from basic to pro"]
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "AutoStream offers a 7-day free trial on the Pro plan. No credit card required to start.",
+      "keywords": ["free", "trial", "demo", "test"]
+    }
+  ]
+}
