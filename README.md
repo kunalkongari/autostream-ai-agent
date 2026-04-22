@@ -3,6 +3,16 @@
 
 ---
 
+## 🎥 Demo Video
+
+A short walkthrough demonstrating:
+- Intent detection  
+- RAG-based pricing response  
+- High-intent identification  
+- Lead collection and tool execution  
+
+👉 [Watch Demo Video](https://drive.google.com/file/d/1zDqkKr76_y1V5b9PvPWAGjmXRNFz3Bl5/view?usp=sharing)
+
 ## 📌 Overview
 
 AutoStream AI Agent is a production-ready conversational AI agent for **AutoStream** — a fictional SaaS platform that provides automated video editing tools for content creators.
