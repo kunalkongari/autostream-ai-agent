@@ -96,7 +96,7 @@ autostream/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone <https://github.com/kunalkongari/autostream-ai-agent.git>
+git clone https://github.com/kunalkongari/autostream-ai-agent.git
 cd autostream
 ```
 
